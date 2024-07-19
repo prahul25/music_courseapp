@@ -21,7 +21,7 @@ function FeaturedCourses() {
     <div className="bg-gray-900 py-12">
       <div>
         <div className="text-center">
-          <h2 className="text-teal-600 uppercase font-semibold">
+          <h2 className="text-teal-600 uppercase font-semibold text-xl tracking-wider">
             Featured Courses
           </h2>
           <p className="text-3xl mt-4 text-white leading-8 font-extrabold tracking-wid sm:text-4xl">
