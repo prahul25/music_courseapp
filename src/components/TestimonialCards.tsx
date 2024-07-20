@@ -11,7 +11,7 @@ function MusiceSchoolTestimonialCards() {
     <h1 className="text-4xl font-bold text-orange-100 mb-10">Hear our Harmony: <span className="text-[#FFD700]">Voices of success</span></h1>
       <InfiniteMovingCards
         items={data.testimonials}
-        direction="right"
+        direction="left"
         speed="slow"
        
       />

@@ -1,19 +1,23 @@
 'use client'
 import { BackgroundBeams } from '@/components/ui/background-beams'
+import Snackar from '@/components/ui/Snackar'
 import React, { FormEvent } from 'react'
 
 function ContactPage() {
+  const [alert,setAlert] = React.useState(false)
   const [email,setEmail] = React.useState("")
   const [text,setText] = React.useState("")
   function submitHandler(event:FormEvent) {
     event.preventDefault()
     setEmail("")
     setText("")
-    alert('Successfully form submitted')
+    setAlert(true)
+    setTimeout(() =>{
+      setAlert(false)
+    },3000)
   }
   return (
     <div className="h-screen relative w-full overflow-hidden bg-black-900 flex flex-col items-center justify-center rounded-lg">
-      <div className="absolute inset-0 w-full h-full bg-slate-900 z-20 [mask-image:radial-gradient(transparent,white)] pointer-events-none" />
         
       <BackgroundBeams/>
       <div className='flex justify-center flex-col items-center'>
@@ -36,6 +40,7 @@ function ContactPage() {
           <button type="submit" className='mt-4 bg-[#DC143C] hover:bg-[#a31232] text-white font-bold py-2 px-4 rounded-lg focus:bg-teal-500 transition-colors duration-300'>Submit</button>
         </form>
       </div>
+      <Snackar show={alert} message={"Successfully Messaged"}/>
     </div>
   )
 }
