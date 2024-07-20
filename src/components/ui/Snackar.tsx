@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Snackbar({ message, show }) {
+function Snackbar({ message, show }:any) {
   return (
     <div
       className={`fixed bottom-4 right-4 p-4 bg-gray-800 text-white border border-teal-600 rounded transition-transform ${
