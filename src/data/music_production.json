@@ -1,0 +1,41 @@
+{
+    "production" :[
+        {
+          "name": "Sony Music Entertainment",
+          "headquarters": "New York City, USA",
+          "image": "/courses/sonymusic.jpeg",
+          "description": "A leading global music company with a diverse roster of artists."
+        },
+        {
+          "name": "Universal Music Group",
+          "headquarters": "Santa Monica, USA",
+          "image": "/courses/umg.jpg",
+          "description": "The world's largest music content company, known for its vast catalog."
+        },
+        {
+          "name": "Warner Music Group",
+          "headquarters": "New York City, USA",
+          "image": "/courses/warner.jpg",
+          "description": "A major music company with a wide range of renowned artists and labels."
+        },
+        {
+          "name": "BMG Rights Management",
+          "headquarters": "Berlin, Germany",
+          "image": "/courses/bmg.jpg",
+          "description": "A modern music company focused on music publishing and rights management."
+        },
+        {
+          "name": "EMI Records",
+          "headquarters": "London, UK",
+          "image": "/courses/emi.jpg",
+          "description": "Iconic British label known for a rich history and influential artists."
+        },
+        {
+          "name": "T-Series",
+          "headquarters": "Noida, India",
+          "image": "/courses/t-series.jpg",
+          "description": "India's largest music label and movie production house, dominating Bollywood music."
+        }
+      ]
+      
+}

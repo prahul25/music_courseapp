@@ -26,7 +26,7 @@ function Webinar() {
         </div>
         <div className="text-center mt-10">
           <Link
-            href={"/courses"}
+            href={"#"}
             className="text-neutral-700 bg-white border-neutral-600 px-4 py-2 rounded text-xl hover:bg-cyan-500 hover:text-white transition duration-200"
           >
             View All Webinar

@@ -1,0 +1,35 @@
+{
+    "writers" :[
+        {
+          "name": "Paul McCartney",
+          "knownFor": "Co-founder of The Beatles; prolific songwriter with hits like 'Yesterday' and 'Hey Jude.'",
+          "image": "/courses/paul.jpg"
+        },
+        {
+          "name": "Bob Dylan",
+          "knownFor": "Influential folk and rock songwriter with classics such as 'Blowin' in the Wind' and 'Like a Rolling Stone.'",
+          "image": "/courses/bob.jpg"
+        },
+        {
+          "name": "Stevie Wonder",
+          "knownFor": "Iconic Motown artist with hits like 'Superstition' and 'Isn’t She Lovely.'",
+          "image": "/courses/stevie.jpg"
+        },
+        {
+          "name": "Taylor Swift",
+          "knownFor": "Modern pop and country artist known for her autobiographical songwriting in songs like 'Love Story' and 'Blank Space.'",
+          "image": "/courses/taylor.webp"
+        },
+        {
+          "name": "Elton John",
+          "knownFor": "Collaborating with Bernie Taupin to create classics such as 'Rocket Man' and 'Your Song.'",
+          "image": "/courses/elton.jpg"
+        },
+        {
+          "name": "Burt Bacharach",
+          "knownFor": "Legendary composer known for his sophisticated arrangements and songs like 'Raindrops Keep Fallin' on My Head.'",
+          "image": "/courses/burt.jpg"
+        }
+      ]
+      
+}

@@ -42,7 +42,7 @@ function FeaturedCourses() {
                     {course.description}
                   </p>
                   <Link
-                    href={`/courses/${course.slug}`}
+                    href={`#`}
                     className="bg-white text-neutral-700 border-neutral-500 px-2 py-1 rounded-lg  hover:bg-orange-200 hover:text-black transition duration-200"
                   >
                     Learn More
