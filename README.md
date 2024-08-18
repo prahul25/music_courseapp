@@ -1,5 +1,5 @@
 
-# **MusicLearn**
+# **Music Mastery**
 
 Welcome to **MusicLearn**, the ultimate platform for mastering music! 🎵 Whether you're a beginner or a seasoned musician, MusicLearn provides the tools and support you need to enhance your musical skills and knowledge.
 
