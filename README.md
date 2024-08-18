@@ -54,10 +54,10 @@ To get started with Music Mastery on your local machine:
    npm run dev
    ```
 4. **Open Your Browser:**
-Go to http://localhost:3000 to start exploring MusicLearn!
+Go to http://localhost:3000 to start exploring Music Mastery!
 
 ## 🤝 **Contributing**
-We’d love your help to make MusicLearn even better! To contribute:
+We’d love your help to make Music Mastery even better! To contribute:
 
 1. Fork the repository.  
 2. Create a new branch (git checkout -b feature-branch).  
