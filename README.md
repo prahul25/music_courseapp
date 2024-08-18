@@ -59,10 +59,10 @@ Go to http://localhost:3000 to start exploring MusicLearn!
 ## 🤝 **Contributing**
 We’d love your help to make MusicLearn even better! To contribute:
 
-1.Fork the repository.  
-2.Create a new branch (git checkout -b feature-branch).  
-3.Make your changes and commit them (git commit -am 'Add new feature').  
-4.Push your branch to GitHub (git push origin feature-branch).  
-5.Open a Pull Request.  
+1. Fork the repository.  
+2. Create a new branch (git checkout -b feature-branch).  
+3. Make your changes and commit them (git commit -am 'Add new feature').  
+4. Push your branch to GitHub (git push origin feature-branch).  
+5. Open a Pull Request.  
 
 
