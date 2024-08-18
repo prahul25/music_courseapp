@@ -1,7 +1,7 @@
 
 # **Music Mastery**
 
-Welcome to **MusicLearn**, the ultimate platform for mastering music! 🎵 Whether you're a beginner or a seasoned musician, MusicLearn provides the tools and support you need to enhance your musical skills and knowledge.
+Welcome to **Music Mastery**, the ultimate platform for mastering music! 🎵 Whether you're a beginner or a seasoned musician, Music Mastery provides the tools and support you need to enhance your musical skills and knowledge.
 
 ## 🚀 **Features**
 
@@ -28,13 +28,13 @@ Welcome to **MusicLearn**, the ultimate platform for mastering music! 🎵 Wheth
 
 ## 🚀 **Demo**
 
-Check out the live version of MusicLearn [here](https://music-courseapp.vercel.app).  
+Check out the live version of Music Mastery [here](https://music-courseapp.vercel.app).  
 
 Feel free to explore the features and functionality of the application.
 
 ## 🏁 **Getting Started**
 
-To get started with MusicLearn on your local machine:
+To get started with Music Mastery on your local machine:
 
 1. **Clone the Repository:**
 
