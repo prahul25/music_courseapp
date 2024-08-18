@@ -26,6 +26,11 @@ Welcome to **MusicLearn**, the ultimate platform for mastering music! 🎵 Wheth
 - **`public/`**: Static assets like images.
 - **`styles/`**: Global styles and Tailwind configuration.
 
+## 🚀 **Demo**
+
+Check out the live version of MusicLearn [here]([https://your-deployed-link.com]).
+Feel free to explore the features and functionality of the application.
+
 ## 🏁 **Getting Started**
 
 To get started with MusicLearn on your local machine:
