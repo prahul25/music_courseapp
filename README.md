@@ -28,7 +28,7 @@ Welcome to **MusicLearn**, the ultimate platform for mastering music! 🎵 Wheth
 
 ## 🚀 **Demo**
 
-Check out the live version of MusicLearn [here](https://your-deployed-link.com).  
+Check out the live version of MusicLearn [here](https://music-courseapp.vercel.app).  
 
 Feel free to explore the features and functionality of the application.
 
